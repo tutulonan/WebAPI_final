@@ -1,0 +1,52 @@
+2025-12-25 20:51:50 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:51:50 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:51:50 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:51:50 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:52:57 | websocket | INFO | 📡 WebSocket подключен: test_client_1 (IP: 127.0.0.1)
+2025-12-25 20:52:57 | websocket | INFO | ✅ Активных подключений: 1
+2025-12-25 20:53:59 | websocket | INFO | 🔌 WebSocket отключен: test_client_1
+2025-12-25 20:53:59 | websocket | INFO | 📊 Активных подключений: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: new_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:08 | websocket | INFO | 📢 Broadcasting: external_post
+2025-12-25 20:54:08 | websocket | INFO | 👥 Получателей: 0
+2025-12-25 20:54:35 | websocket | INFO | 📡 WebSocket подключен: test_client_1 (IP: 127.0.0.1)
+2025-12-25 20:54:35 | websocket | INFO | ✅ Активных подключений: 1
+2025-12-25 20:58:10 | websocket | INFO | 🔌 WebSocket отключен: test_client_1
+2025-12-25 20:58:10 | websocket | INFO | 📊 Активных подключений: 0
