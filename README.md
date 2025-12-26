@@ -79,9 +79,3 @@ python run.py
 2. Нажмите "Connect"
 3. Используйте "Send Ping" для проверки соединения
 4. Выполните POST запрос на `/posts/run` для получения реальных событий
-
-### Альтернативный тест через Postman:
-1. New → WebSocket Request
-2. URL: `ws://localhost:8000/ws/posts?client_id=test_user`
-3. Отправьте: `{"event": "ping"}`
-4. Получите ответ: `{"event": "pong", "timestamp": "..."}`
